@@ -30,7 +30,6 @@ workshop and starts with the `FEM/00-original-project` branch. See
 
 ## Project Setup
 
-<<<<<<< da6fb78322c8849096d200bc357e53f840c5bf17
 This project assumes you have [NodeJS v6](http://nodejs.org/) or greater installed. You should
 also have [npm v3](https://www.npmjs.com/) or greater installed as well (this comes packaged
 with Node 6). You'll also need a recent version of [git](https://git-scm.com/) installed
@@ -60,17 +59,9 @@ If you get any failures at this point something is wrong and needs to be fixed. 
 
 You might find it helpful to see a list of the available branches. Run: `git branch` for that.
 
-1. Fork the GitHub Repo
-2. Clone your Fork
-3. Run `npm install`
-4. Run `npm run validate`
-5. If everything's running without errors, you can start checking out the available branches (`git remote show origin`)
->>>>>>> Add notes
-
 ## Notes
 
 Because Webpack 2 is currently in beta, there are issues with `peerDependencies`, so you’ll have to use npm version 3 to be able to install the dependencies.
-<<<<<<< da6fb78322c8849096d200bc357e53f840c5bf17
 
 ### Updates
 
